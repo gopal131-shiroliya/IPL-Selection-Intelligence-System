@@ -1,0 +1,11 @@
+player_name,role,runs,batting_average,strike_rate,boundary_percent,powerplay_strike_rate,middle_overs_strike_rate,death_overs_strike_rate,wickets,bowling_average,economy,dot_ball_percent,death_overs_economy,catches,stumpings,fitness_score,consistency_score,experience_matches
+Rohit Verma,batter,540,38.5,149.2,57.0,142.0,133.5,182.4,0,0,0,0,0,10,0,84,78,48
+Aryan Shah,batter,488,34.8,157.9,61.0,151.4,138.2,190.3,0,0,0,0,0,8,0,80,82,36
+Kunal Dev,batter,420,29.7,145.4,52.0,136.0,129.3,176.1,0,0,0,0,0,9,0,88,75,30
+Vikas Nair,wicketkeeper,452,37.6,151.8,55.0,144.3,135.7,185.2,0,0,0,0,0,11,9,86,80,42
+Sameer Khan,all_rounder,318,26.5,148.7,49.0,138.8,132.4,178.6,18,21.4,7.3,43.0,8.1,13,0,83,81,44
+Harsh Mehta,all_rounder,280,24.1,141.2,45.0,132.1,126.8,169.7,21,19.8,7.0,46.0,7.9,12,0,85,84,40
+Ishaan Rao,bowler,58,12.4,129.0,28.0,110.0,118.0,150.0,24,17.2,6.8,49.0,7.4,7,0,82,86,39
+Prateek Joshi,bowler,41,9.8,118.6,24.0,105.0,110.0,142.0,27,16.5,7.1,47.0,7.8,6,0,79,88,46
+Adil Shaikh,bowler,36,8.5,121.4,20.0,101.0,112.5,145.2,22,18.1,6.9,50.0,7.2,8,0,87,83,33
+Naman Gill,wicketkeeper,396,31.2,143.6,50.0,138.7,128.1,172.5,0,0,0,0,0,9,11,81,77,29
